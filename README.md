@@ -1,1 +1,1 @@
-# daily-scrum
+# Daily Standup
